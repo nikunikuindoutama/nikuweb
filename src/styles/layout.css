@@ -1,0 +1,110 @@
+header {
+  margin-bottom: 0px !important;
+}
+
+ul.products {
+  pointer-events: none;
+}
+
+.product-image-wrapper img {
+  height: 300px;
+  width: 300px;
+}
+
+div.child.tab-pane {
+  transform: translateY(-10px);
+}
+
+ul.tab-child .nav-link::after {
+  width: 0 !important;
+  height: 0 !important;
+}
+
+ul.tab-child {
+  border-top: 1px solid #9f0000;
+}
+
+div.section-products {
+  margin-top: 5rem;
+}
+
+div.home-v1-slider {
+  margin-bottom: 0;
+}
+
+#instagramFeed img {
+  float: unset !important;
+  display: unset !important;
+}
+
+.full-width {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  margin-left: -50vw;
+}
+
+.site-main, #primary.content-area {
+  margin-bottom: 0 !important;
+}
+
+.gmap-container {
+  transform: translateY(9px);
+}
+
+.black-label {
+  position: absolute;
+  top: 8%;
+  right: 25%;
+  /* padding: 5px; */
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #fd1111;
+  color: white;
+  font-weight: 700;
+}
+
+ .main-navigation {
+  width: 100% !important;
+}
+/*
+#menu-main-menu-left {
+  float: left;
+  margin-left: 5rem;
+}
+#menu-main-menu-right {
+  float: right;
+  margin-left: 5rem;
+}
+.primary-navigation {
+  display:inherit;
+  width: 100%;
+} */
+
+.menu-item.phone-number {
+  /* transform: translateX(50rem); */
+  margin-left: 30rem;
+  font-size: larger;
+}
+.site-footer {
+  margin-bottom: 0 !important;
+}
+
+.contact-page-social-icons li a::before{
+  margin-right: 1rem;
+}
+.contact-page-social-icons ul {
+  margin: 0;
+}
+.contact-social-icon-label {
+  font-family: "Open Sans", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+.custom-logo-link img {
+  display: inline;
+}
+.site-content .caption {
+  width: 80% !important;
+}
+.contact-page-social-icons {
+  margin-bottom: 3rem;
+}
