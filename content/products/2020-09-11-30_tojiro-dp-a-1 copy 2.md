@@ -4,7 +4,7 @@ type: product
 date: 2020-09-11T18:57:12.087Z
 name: Shabu A
 price: Rp98.000
-description: "Enjoy our tasty meat cuts. "
+description: "Enjoy our very tasty meat cuts. "
 tag: tab-shabu-beef
 redLabel: ""
 isInStock: false
