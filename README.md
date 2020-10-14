@@ -1,4 +1,4 @@
 ```shell
 gatsby develop
-npx netlify-cms-proxy-server
+npx netlify-cms-proxy-server 
 ```
