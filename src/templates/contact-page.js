@@ -158,7 +158,7 @@ const ContactPageTemplate = ({ data, pageContext, location }) => {
                                   min="2"
                                   max="20"
                                   class="input-text"
-                                  name="phone-number"
+                                  name="group-size"
                                   size="40"
                                   aria-required="true"
                                   aria-invalid="false"
