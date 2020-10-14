@@ -3,10 +3,10 @@ module.exports = {
     title: `Niku Niku`,
     author: {
       name: `Ertheo Siswadi`,
-      summary: `who lives and works in Indonesia building useful things.`,
+      summary: `Who lives and works in Indonesia building useful things. 0815-4348-1148`,
     },
-    description: `Niku Niku, Your Go To Shabu Shabu Restaurant In Kelapa Gading`,
-    siteUrl: `https://nikunikuindo.netlify.app/`,
+    description: `All You Can Eat Shabu Shabu & Grill (100% Halal)`,
+    siteUrl: `https://nikuniku.netlify.app/`,
     image: '/assets/images/metadata-image.jpg'
   },
   plugins: [
